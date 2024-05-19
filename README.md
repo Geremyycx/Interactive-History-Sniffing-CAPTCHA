@@ -24,8 +24,8 @@ In this CAPTCHA program, certain letters are associated with a specific link. If
 
 ## Demo
 Here are screenshots demonstrating the program in action:<br />
-![Program Demo](#CAPTCHA.png)
-
+![CAPTCHA Input](CAPTCHA.png)
+![Results](
 
 [Click here](https://github.com/Geremyycx/Signature-Work-Portfolio.git) to return to the main portfolio page.
 
