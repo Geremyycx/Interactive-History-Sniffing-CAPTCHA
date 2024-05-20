@@ -25,7 +25,9 @@ In this CAPTCHA program, certain letters are associated with a specific link. If
 ## Demo
 Here are screenshots demonstrating the program in action:<br />
 ![CAPTCHA Input](CAPTCHA.png)
-![Results](
+![Results](Results.png)
+
+This example demonstrates the user's view of the program. In this scenario, the first "E" in the CAPTCHA is intentionally left out, which is linked to the Art History page. If the user had visited the Art History page recently before visiting this CAPTCHA page, the "E" would not appear for the user. Consequently, the program will print out the majors associated with the remaining links that the user hasn't visited.
 
 [Click here](https://github.com/Geremyycx/Signature-Work-Portfolio.git) to return to the main portfolio page.
 
